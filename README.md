@@ -5,7 +5,7 @@ Pytorch based Crowd-Counting model using SCNN_CSRNet.
   Crowd counting is a technique to count the number of people present in the image. Counting the number of people in sparse crowd is way simpler than counting the count in dense areas where the amount of people is huge like sports stadium or any tomorrowland festival. So by this technique we can do it in few seconds.
 
 ## Why we need Crowd-Counting?
-  By looking in the below image can we calculate the crowd count well yess but this might take long time right? This is where your deep learning skills kick in we just automate the process with the help of something known as Convolutional Neural Network or CNN. We will talk in lil depth about how we implement our model, trained and tested it.
+  By looking in the below image can we calculate the crowd count well yess but this is time consuming task right? This is where your deep learning skills kick in we just automate the process with the help of something known as Convolutional Neural Network or CNN. We will talk in lil depth about how we implement our model, trained and tested it.
   
   <img src="https://static.timesofisrael.com/www/uploads/2012/04/crowd-in-berlin.jpg" height = "350" width="900"/>
   
@@ -42,5 +42,6 @@ Pytorch based Crowd-Counting model using SCNN_CSRNet.
 ## Reference and Inspiration.
 https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/
  
+# Automation is making people's life easy as well lazy too LOL :)
  
 
