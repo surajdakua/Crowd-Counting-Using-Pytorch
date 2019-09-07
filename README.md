@@ -35,10 +35,10 @@ Pytorch based Crowd-Counting model using SCNN_CSRNet.
  <img src="https://github.com/surajdakua/Crowd-Counting-Using-Pytorch/blob/master/Desnity_Map50.png" height = "350" width="900"/>
 
 ## Papers to make you understand the concept more clear.
-    1. https://arxiv.org/pdf/1907.02724v1.pdf
-    2. https://arxiv.org/pdf/1708.00199v2.pdf
-    3. https://arxiv.org/pdf/1707.09605v2.pdf
-    4. https://arxiv.org/pdf/1803.03095v1.pdf
+    - https://arxiv.org/pdf/1907.02724v1.pdf
+    - https://arxiv.org/pdf/1708.00199v2.pdf
+    - https://arxiv.org/pdf/1707.09605v2.pdf
+    - https://arxiv.org/pdf/1803.03095v1.pdf
  
  
 
