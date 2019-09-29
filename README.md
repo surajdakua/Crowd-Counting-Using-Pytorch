@@ -42,6 +42,6 @@ Pytorch based Crowd-Counting model using SCNN_CSRNet.
 ## Reference and Inspiration.
 https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/
  
-# Automation is making people's life easy and lazy as well LOL :)
+# Automation is making people's life easy and lazy as well :)
  
 
