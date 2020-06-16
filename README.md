@@ -43,6 +43,6 @@ Pytorch based Crowd-Counting model using SCNN_CSRNet.
 https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/
  
 # If you like my work then please visit 
-www.dakug.epizy.com
+www.sdak.epizy.com
  
 
